@@ -26,11 +26,10 @@ type Employee struct {
 	person_contact contact
 	person_adress  adress
 }
-
 func main() {
-
-	emp()
-	LAB()
+	
+	//emp()
+	//LAB()
 }
 
 func Structs() {
